@@ -7,6 +7,6 @@
 :thinking: **Sin duda, tu gran diferencia son los detalles. Sí, esos que a priori nadie ve, pero que marcan tu profesionalismo real.**
 
 ### :zap: Mi actividad reciente
-<!-- RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:start-->
 
-<!-- RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update-->
