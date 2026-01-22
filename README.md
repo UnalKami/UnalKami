@@ -1,7 +1,5 @@
-<h3 align="center">I'm a Systems and Computer Engineer from the National University of Colombia, with a strong interest in working as a Full Stack Developer.🤓</h3>
-
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNuMWtmbzJ4cWM0N21ndW5meXFtd3Y0NW9sY2t3MWpzN2Q5MzE3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/O2PhyxtkFwCtUO6nen/giphy.gif"  />
 </div>
 
 ###
@@ -13,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=unalkami.unalkami&"  />
 </div>
 
 ###
